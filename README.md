@@ -1,5 +1,5 @@
 # Koncept-HTML
-En samling med material för att läta sig HTML
+En samling med material för att lära sig HTML
 
 ## Artiklar
 
