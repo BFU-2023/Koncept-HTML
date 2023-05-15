@@ -1,4 +1,4 @@
-# Konmcept-HTML
+# Koncept-HTML
 En samling med material för att läta sig HTML
 
 ## Artiklar
